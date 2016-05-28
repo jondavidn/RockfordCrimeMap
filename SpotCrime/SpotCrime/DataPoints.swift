@@ -2,7 +2,7 @@
 //  DataPoints.swift
 //  RockfordCrimeMap
 //
-//  Created by CHuck Konkol
+//  Created by Jonathan Niemerg
 //
 
 // 1 Imports
